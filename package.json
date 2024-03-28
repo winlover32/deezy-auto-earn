@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.27.2",
-    "ln-service": "^54.1.1",
+    "axios": "^0.28.0",
+    "ln-service": "^57.8.0",
     "lnurl-pay": "^1.0.1",
     "tor-axios": "^1.0.11"
   }
